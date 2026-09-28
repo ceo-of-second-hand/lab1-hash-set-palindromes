@@ -1,0 +1,5 @@
+*.exe
+*.o
+build/
+*.txt
+!input_example.txt

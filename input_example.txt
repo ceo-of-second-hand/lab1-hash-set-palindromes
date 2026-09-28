@@ -1,0 +1,11 @@
++ level
++ abba
++ hello
++ a
+? abba
+? world
+- abba
+? abba
++ racecar
++ abba
+#
